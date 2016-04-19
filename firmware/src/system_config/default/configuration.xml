@@ -81,7 +81,7 @@
       <Template>
         <Name>system_init.c</Name>
         <Path>Source Files/app/system_config/default</Path>
-        <Checksum>7060EDB7A9E63399B5E34CBE189A9695</Checksum>
+        <Checksum>B5414F9061F215CBBD666875A120BE0B</Checksum>
       </Template>
       <Template>
         <Name>drv_oc_static.h</Name>
@@ -96,7 +96,7 @@
         <Name>system_definitions.h</Name>
         <Path>Header Files/app/system_config/default</Path>
         <Checksum>18BAD4F0A641B292C20DB70A296C974A</Checksum>
-        <ProjectFileChecksum>B70275CCB849CE7159891241B9D94ACB</ProjectFileChecksum>
+        <ProjectFileChecksum>77B72569683CD5965BDA886A1E26B760</ProjectFileChecksum>
       </Template>
       <Template>
         <Name>system_exceptions.c</Name>

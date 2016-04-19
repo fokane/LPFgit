@@ -56,7 +56,7 @@
         </logicalFolder>
       </logicalFolder>
       <logicalFolder name="f4" displayName="ui" projectFiles="true">
-        <itemPath>C:/microchip/harmony/v1_07_01/apps/PIC32MX7_PWM_LPF/firmware/src/ui.h</itemPath>
+        <itemPath>../src/ui.h</itemPath>
       </logicalFolder>
     </logicalFolder>
     <logicalFolder name="LinkerScript"
@@ -135,7 +135,7 @@
         </logicalFolder>
       </logicalFolder>
       <logicalFolder name="f4" displayName="ui" projectFiles="true">
-        <itemPath>C:/microchip/harmony/v1_07_01/apps/PIC32MX7_PWM_LPF/firmware/src/ui.c</itemPath>
+        <itemPath>../src/ui.c</itemPath>
       </logicalFolder>
     </logicalFolder>
     <logicalFolder name="ExternalFiles"
